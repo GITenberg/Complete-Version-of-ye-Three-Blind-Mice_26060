@@ -1,0 +1,36 @@
+_repo: Complete-Version-of-ye-Three-Blind-Mice_26060
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Corbould, Walton
+    birthdate: 1859
+    deathdate: 1919
+    gutenberg_agent_id: '31771'
+    url: http://www.gutenberg.org/2009/agents/31771
+covers:
+- cover_type: archival
+  image_path: 26060-h/images/backcover_small.jpg
+creator:
+  author:
+    agent_name: Ivimey, John W. (John William)
+    alias: Ivimey, John William
+    birthdate: 1868
+    gutenberg_agent_id: '31770'
+    url: http://www.gutenberg.org/2009/agents/31770
+description: Relates the adventures of three mice who set out to roam in search of
+  fun. Includes music for the round.
+gutenberg_issued: '2008-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s songs'
+title: Complete Version of ye Three Blind Mice
+url: http://www.gutenberg.org/ebooks/26060
