@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31770
 description: Relates the adventures of three mice who set out to roam in search of
   fun. Includes music for the round.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26060#Complete-Version-of-ye-Three-Blind-Mice
 gutenberg_issued: '2008-07-15'
 gutenberg_type: Text
 identifiers:
